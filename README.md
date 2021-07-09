@@ -19,9 +19,16 @@
 2)Key points to note in my code:-
 
 	->Implemented basic functionalities asked in the assignment.
+	
 	->Implemented space bar and tab seperated commands (means i have tokenized commands by both space and tab). 
+	
 	->Appending a file if it already exists in client's directory.
+	
 	->Showing progress of file downloading(upto 2 decimal in percentage).
+	
 	->Done basic error handling in code.(Both on client and server side)
+	
 	->Also wrote some acknowledgement statements on both client and server side.
+	
 	->Added some sleep statments for synchronization
+	
